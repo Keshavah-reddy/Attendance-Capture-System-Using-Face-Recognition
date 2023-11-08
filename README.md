@@ -78,7 +78,7 @@ Window is closed.
 
 # Functionalities
 **Home page**
-<br><img src='project_images/2.png' style='width:40%'><br><br>
+<br><a href="https://imgbb.com/"><img src="https://i.ibb.co/LSGjmWh/2.png" alt="2" border="0"></a><br><br>
 
 **Lecture duration popup**
 <br><img src='project_images/3.png' style='width:40%'><br><br>
