@@ -73,7 +73,7 @@ Window is closed.
 <br><br>
 
 # Software Architecture
-<img src='https://ibb.co/jzRQQbw' style='width:25%'>
+<a href="https://ibb.co/jzRQQbw"><img src="https://i.ibb.co/VxmzzJC/1.png" alt="1" border="0"></a>
 <br><br>
 
 # Functionalities
