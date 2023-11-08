@@ -2,10 +2,6 @@
 Attendance Capture System Using Face Recognition is a application implemented using Python, OpenCV, Pandas, Pillow, PySimpleGUI that works like an application that records attendace using Face Recognition.
 <br><br>
 
-# Video Link for the Project
-The project walkthrough can be viewed [HERE]()
-<br><br>
-
 # Description
 The main objective of this project is to offer system that simplify and automate the process of recording and tracking students’ attendance through face recognition technology. It is biometric technology to identify or verify a person from a digital image or surveillance video.<br><br>
 Automatically attendance system based on face recognized and also decreases manual work.<br><br>
