@@ -125,10 +125,4 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/)
 * https://github.com/opencv/opencv/tree/master/data/haarcascades
 * https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
 * https://www.geeksforgeeks.org/python-haar-cascades-for-object-detection/
-<br><br>
-
-# License
-
-© Abhinav Mathur (ELLIPSIS)
-
-Licensed under [MIT License](LICENSE).
+<br><br
