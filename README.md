@@ -84,22 +84,22 @@ Window is closed.
 <br><a href="https://imgbb.com/"><img src="https://i.ibb.co/RSg8Gjy/3.png" alt="3" border="0"></a><br><br>
 
 **Taking Attendance Page**
-<br><img src='project_images/4.jpg' style='width:40%'><br>
-<img src='project_images/5.png' style='width:15%'>
-<img src='project_images/6.png' style='width:15%'>
-<img src='project_images/7.png' style='width:15%'><br><br>
+<br><a href="https://ibb.co/cFb7fFc"><img src="https://i.ibb.co/0MBd4Mj/4.jpg" alt="4" border="0"></a><br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/XbXG1ns/5.png" alt="5" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/XCS3XN6/6.png" alt="6" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/LrVvrbv/7.png" alt="7" border="0"></a><br><br>
 
 **Entering new Student data popup**
-<br><img src='project_images/8.png' style='width:40%'><br><br>
+<br><a href="https://imgbb.com/"><img src="https://i.ibb.co/ZY7dxyp/8.png" alt="8" border="0"></a><br><br>
 
 **Taking face images of new student**
-<br><img src='project_images/9.png' style='width:40%'><br><br>
+<br><a href="https://imgbb.com/"><img src="https://i.ibb.co/xmMjr8G/9.png" alt="9" border="0"></a><br><br>
 
 **Training the model using all images**
-<br><img src='project_images/10.png' style='width:25%'><br><br>
+<br><a href="https://imgbb.com/"><img src="https://i.ibb.co/2jGQ0rZ/10.png" alt="10" border="0"></a><br><br>
 
 **Viewing csv attendance**
-<br><img src='project_images/11.png' style='width:50%'>
+<br><a href="https://imgbb.com/"><img src="https://i.ibb.co/qrLnZzc/11.png" alt="11" border="0"></a>
 <br><br>
 
 # Requirements
